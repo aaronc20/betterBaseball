@@ -1,7 +1,6 @@
 import httpx, asyncio, json
 import time
 
-from games.game import Game
 from algorithms.default import Default
 
 from rich.console import Console
